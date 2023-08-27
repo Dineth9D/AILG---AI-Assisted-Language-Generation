@@ -1,0 +1,10 @@
+fastapi
+transformers
+torch
+python-multipart
+uvicorn
+torchvision 
+torchaudio
+pandas
+matplotlib
+Jinja2
