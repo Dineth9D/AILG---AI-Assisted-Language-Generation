@@ -1,4 +1,4 @@
 /.idea
-/fine_tuned_gpt2
+/fine_tuned_gpt2/pytorch_model.bin
 /venv
 /__pycache__
